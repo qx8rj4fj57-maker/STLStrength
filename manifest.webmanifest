@@ -1,0 +1,16 @@
+{
+  "name": "Hoops Strength & Conditioning",
+  "short_name": "Hoops S&C",
+  "description": "Daily strength & conditioning sessions for a young basketball player.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0C2117",
+  "theme_color": "#0C2117",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
